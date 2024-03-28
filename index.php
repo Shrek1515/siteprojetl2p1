@@ -1,1 +1,1 @@
-<?php echo test test test ?>
+<?php echo test test test; ?>
